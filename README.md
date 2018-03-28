@@ -1,5 +1,5 @@
 # CLRS-Examples
-This repository includes examples(algorithms) in the CLRS(算法导论), and they would all be written in C, except under special circumstances.
+这个repository主要讨论展示实现CLRS(算法导论)中的算法例子，除了特殊情况外，大部分的代码都会用C来实现。
 
 我会为每一个算法都建立一个文件夹，里面会包含算法流程示意，时间复杂度分析，源代码（或许询问朋友意见后，内容会更加丰富）。
 
